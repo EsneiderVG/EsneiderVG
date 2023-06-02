@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="[https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy-downsized.gif)" width="200" />
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm EsneiderVG</h1>
     <h3 align="center">A passionate fullstack web developer from Colombia. I like Java and React.</h3>
 </div>
