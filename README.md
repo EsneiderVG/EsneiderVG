@@ -8,9 +8,9 @@
 
 - 📝 I work as a full stack web developer
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **esneidergomez6660@gmail.com**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **Java**
 
 
 <div align="left">
