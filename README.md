@@ -11,11 +11,17 @@
 
 <div align="left">
 
-    ● Colombian developer.
+    ● 💛Colombian developer.
 
-    ● Currently a software engineering student and a future java fullstack dev.
+    ● 💻Currently a software engineering student and a future java fullstack dev.
 
-    ● My favorite hobbies are video games and reading books :D
+    ● 🖤 My favorite hobbies are video games and reading books :D
+    
+    ● 📫 How to reach me **esneidergomez6660@gmail.com**
+
+    ● 🌱 I’m currently learning **React.js** and **Java**
+
+    ● 🌐 so energetic
 
 </div>
 </h2>
