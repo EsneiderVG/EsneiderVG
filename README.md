@@ -3,16 +3,19 @@
     # <h1 align="center"><code>Hi 👋, I'm EsneiderVG<code></h1>
     <h3 align="center">A passionate fullstack web developer from Colombia. I like Java and React.</h3>
 </div>
+<div>
+    ### 👨‍💻 About Me :
 
-### 👨‍💻 About Me :
+    - 📝 I work as a full stack web developer
 
-- 📝 I work as a full stack web developer
+    - 📫 How to reach me **esneidergomez6660@gmail.com**
 
-- 📫 How to reach me **esneidergomez6660@gmail.com**
+    - 🌱 I’m currently learning **React.js** and **Java**
 
-- 🌱 I’m currently learning **React.js** and **Java**
-
-- 🌐 so energetic
+    - 🌐 so energetic
+</div>     
+     
+     
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
