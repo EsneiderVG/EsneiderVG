@@ -1,9 +1,9 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm EsneiderVG</h1>
+    # <h1 align="center"><code>Hi 👋, I'm EsneiderVG<code></h1>
     <h3 align="center">A passionate fullstack web developer from Colombia. I like Java and React.</h3>
 </div>
-
+---
 ### 👨‍💻 About Me :
 
 - 📝 I work as a full stack web developer
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React.js** and **Java**
 
 - 🌐 so energetic
-
+---
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
