@@ -53,10 +53,26 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
       </div>
 </div>
-### 📊 My Stats :
+<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EsneiderVG&theme=onedark)](https://git.io/streak-stats)
+<div align="center"> 
+    <h1>📊 My Stats</h1> 
+    <a href="spotify.com">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=EsneiderVG&theme=onedark(https://git.io/streak-stats)" alt="lol" />
+    </a>        
+    <br>
+    <a href="spotify.com">
+        <img src="https://github-readme-stats.vercel.app/api?username=EsneiderVG&show_icons=true&theme=radical" alt="lol" />
+    </a>    
+    <br>
+    <a href="spotify.com">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsneiderVG&theme=tokyonight(https://github.com/anuraghazra/github-readme-stats)" alt="lol" />
+    </a>  
+</div>        
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EsneiderVG&theme=onedark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EsneiderVG&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsneiderVG&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ -->
