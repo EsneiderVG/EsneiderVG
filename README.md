@@ -26,9 +26,13 @@
 </div>
 </h2>
  
-<a href="spotify.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=22v57blx22mpvjw3c75rn3w5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1af0ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22v57blx22mpvjw3c75rn3w5y&redirect=true)" height="150px">
-</a>
+<div align="center"> 
+    <h1>l'm listening!...</h1> 
+    <a href="spotify.com">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=22v57blx22mpvjw3c75rn3w5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1af0ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22v57blx22mpvjw3c75rn3w5y&redirect=true)" height="150px">
+    </a>
+</div>    
+
  
 ---
      
