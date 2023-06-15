@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" />
-    # <h1 align="center"><code>Hi 👋, I'm EsneiderVG<code></h1>#
+    <h1 align="center"><code>Hi 👋, I'm EsneiderVG<code></h1>
     <h3 align="center">A passionate fullstack web developer from Colombia. I like Java and React.</h3>
 </div>
 <div>
