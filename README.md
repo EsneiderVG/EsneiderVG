@@ -13,14 +13,14 @@
 
 
 </br><h2 align="center">
-📛 <code> Hi i'm here, but who is Esneider?</code>
+📛 <code> Hi I'm here, but who is Esneider?</code>
 </br>
 
 <div align="left">
 
     ● 💛Colombian developer.
 
-    ● 💻Currently a software engineering student and a future java full-stack dev.
+    ● 💻Currently a software engineering student and a future Java full-stack dev.
 
     ● 🖤 My favorite hobbies are video games and reading books :D
     
@@ -56,16 +56,15 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>
         <img src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" title="Springboot" **alt="Springboot" width="40" height="40"/>
-        
-      </div>
+
 </div>
 <br>
 
 <div align="center"> 
     <h1>📊 My Stats</h1> 
-    <p>
+    <a href="spotify.com">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=EsneiderVG&theme=onedark(https://git.io/streak-stats)" alt="lol" />
-    </p>        
+    </a>        
     <br>
     <a href="spotify.com">
         <img src="https://github-readme-stats.vercel.app/api?username=EsneiderVG&show_icons=true&theme=radical" alt="lol" />
