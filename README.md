@@ -20,13 +20,13 @@
 
     ● 💛Colombian developer.
 
-    ● 💻Currently a software engineering student and a future java fullstack dev.
+    ● 💻Currently a software engineering student and a future java full-stack dev.
 
     ● 🖤 My favorite hobbies are video games and reading books :D
     
     ● 📫 How to reach me **esneidergomez6660@gmail.com**
 
-    ● 🌱 I’m currently learning **React.js** and **Java**
+    ● 🌱 I’m currently learning **Next.js** and **Java**
 
     ● 🌐 so energetic
 
@@ -51,17 +51,21 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" **alt="Mysql" width="40" height="40"/>}
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" **alt="Mysql" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>
+        <img src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" title="Springboot" **alt="Springboot" width="40" height="40"/>
+        
       </div>
 </div>
 <br>
 
 <div align="center"> 
     <h1>📊 My Stats</h1> 
-    <a href="spotify.com">
+    <p>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=EsneiderVG&theme=onedark(https://git.io/streak-stats)" alt="lol" />
-    </a>        
+    </p>        
     <br>
     <a href="spotify.com">
         <img src="https://github-readme-stats.vercel.app/api?username=EsneiderVG&show_icons=true&theme=radical" alt="lol" />
